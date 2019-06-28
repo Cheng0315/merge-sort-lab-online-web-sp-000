@@ -10,7 +10,7 @@ function merge(arr1, arr2) {
     if (arr1[0] < arr2[0]) {
       sortedArr.push(arr1[0])
     } else {
-      sortedArr.psuh(arr2[0])
+      sortedArr.push(arr2[0])
     }
   }
 
